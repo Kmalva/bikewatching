@@ -4,7 +4,7 @@ import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7.9.0/+esm';
 import mapboxgl from 'https://cdn.jsdelivr.net/npm/mapbox-gl@2.15.0/+esm';
 import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7.9.0/+esm';
 
-mapboxgl.accessToken = 'pk.eyJ1Ijoia21hMDA1IiwiYSI6ImNtcDdqcHVndjA0MTIycnExYmpyZjgzbXQifQ.U2tfLW_P1z-tAJSjqHBt6g';
+mapboxgl.accessToken = 'pk.eyJ1Ijoia21hMDA1IiwiYSI6ImNtcDduNDJqZTA0M2kycG9vbjFranZibWgifQ.Ww-ZO3wQZfbWY41L7FDsuQ';
 
 const STATIONS_URL =
   'https://dsc106.com/labs/lab07/data/bluebikes-stations.json';
